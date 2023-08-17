@@ -3,12 +3,12 @@ Simple Semantic landing page which features a user flight booking page.
 
 ### Screenshot
 
-![](./imag/screenshot.png)
-![](./imag/screenshot2.png)
+![](./img/screenshot.png)
+![](./img/screenshot2.png)
 
 ### Links
 
-- Solution URL: []
+- Solution URL: [https://alfarukky.github.io/trillo/]
 
 ### Built with
 
